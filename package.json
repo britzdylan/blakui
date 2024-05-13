@@ -1,0 +1,11 @@
+{
+  "name": "blakui",
+  "version": "0.0.1",
+  "description": "Code components for Framer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Britz",
+  "license": "ISC"
+}
